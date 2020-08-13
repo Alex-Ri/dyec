@@ -1,4 +1,5 @@
 # DYEC 5
+
 ## Testing Vue Components with Vue Test Utils & Jest
 
 - What is Vue Test Util (VTU)
@@ -25,9 +26,13 @@
 - Confidence while deploying
 
 ## What to test
+
 - Test the components public interface
   - Black box texting
 - Complete line-based coverage Is not recommended
+- Do not test:
+  - Framework itself (in this case Vue.js)
+  - External libraries
 - **Component Contract**
   - Expected Input  brings expected output
   - Inputs:
