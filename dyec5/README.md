@@ -39,4 +39,4 @@
     - Vue Events
     - Functional calls
 
-![Component Contract](https://github.com/Alex-Ri/dyec/tree/master/dyec5/public/component_contract.png)
+![Component Contract](https://raw.githubusercontent.com/Alex-Ri/dyec/master/dyec5/public/component_contract.png)
