@@ -45,3 +45,10 @@
     - Functional calls
 
 ![Component Contract](https://raw.githubusercontent.com/Alex-Ri/dyec/master/dyec5/public/component_contract.png)
+
+## Good resources
+
+- [Introduction | Vue Test Utils](https://vue-test-utils.vuejs.org)
+- [Tips for Unit Testing Vue Components with Jest | by Achhunna Mali | The Startup | Medium](https://medium.com/swlh/tips-on-unit-testing-vue-components-with-jest-e68ff6a28bb5)
+- [JavaScript ES6 Intl not working properly when running Jest tests | Basefactor](https://www.basefactor.com/javascript-es6-intl-not-working-properly-when-running-jest-tests)
+
